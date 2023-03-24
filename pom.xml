@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <spring.version>5.2.4.RELEASE</spring.version>
+        <spring.version>5.2.23.RELEASE</spring.version>
         <lombok.version>1.18.8</lombok.version>
         <mysql.connector.version>8.0.19</mysql.connector.version>
         <sparkjava.version>2.9.1</sparkjava.version>
